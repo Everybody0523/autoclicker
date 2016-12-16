@@ -11,7 +11,7 @@ public class Bot {
 	
 	
 	/*
-	 * Performs n clicks with the left mouse button, with one click every quarter second.
+	 * Performs n clicks with the left mouse button.
 	 */
 	public static void clickALot(int n) throws AWTException{
 		Robot r = new Robot();
